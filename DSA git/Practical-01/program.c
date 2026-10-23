@@ -1,5 +1,5 @@
-// Name: Pranav Gajanan Daud
-// Roll No.: SEA59
+// Name: Sahil Kshirsagar
+// Roll No.: SEA73
 // Practical No. 1
 // Program to display different patterns using numbers, alphabets, and asterisks.
 
