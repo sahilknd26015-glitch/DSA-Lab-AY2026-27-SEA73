@@ -1,3 +1,8 @@
+// Name : Sahil Jayram Kshirsagar
+// Roll No: SEA73
+// Practical No: 1
+//Program to display differnet patterns using numbers, alphabets, and asterisks
+
 #include <stdio.h>
 
 int main()
